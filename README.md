@@ -8,7 +8,7 @@ This project is a note taking page that will save new notes written by the user.
  
 ## Link to Project
  
-[Express Note Taker](https://pure-mountain-77199.herokuapp.com/notes)
+[Express Note Taker](https://pure-mountain-77199.herokuapp.com)
  
  
 ## Screenshot
